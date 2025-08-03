@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/sarthakporwal/Leetcoder/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sarthakporwal/Leetcoder/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sarthakporwal/Leetcoder/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/sarthakporwal/Leetcoder/tree/master/2689-rearranging-fruits) |
 ## Dynamic Programming
 |  |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/sarthakporwal/Leetcoder/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/sarthakporwal/Leetcoder/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/sarthakporwal/Leetcoder/tree/master/0182-duplicate-emails) |
+## Binary Search
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sarthakporwal/Leetcoder/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Sliding Window
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sarthakporwal/Leetcoder/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Prefix Sum
+|  |
+| ------- |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sarthakporwal/Leetcoder/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 <!---LeetCode Topics End-->
