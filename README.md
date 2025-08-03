@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2689-rearranging-fruits](https://github.com/sarthakporwal/Leetcoder/tree/master/2689-rearranging-fruits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sarthakporwal/Leetcoder/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
