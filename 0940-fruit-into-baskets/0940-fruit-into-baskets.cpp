@@ -1,33 +1,21 @@
 class Solution {
 public:
-    int totalFruit(vector<int>& fruits) {
-        int n = fruits.size();
-        // Continuous manner -> Subarray + maxi/mini -> Variable size sliding window
-        if(n == 1) return 1;
+    int totalFruit(vector<int>& arr) {
         unordered_map<int, int> mp;
-        int i = 0, j = 0;
-        int maxLen = 0;
-        while(j < n){
-            mp[fruits[j]]++;
-            if(mp.size() < 2){
-                if(j == (n - 1)){
-                    maxLen = max(maxLen, j - i + 1);
-                }
-                j++;
+        int i = 0, j = 0, ans = 0;
+
+        while(j < arr.size()){
+            mp[arr[j]]++;
+            if(mp.size() < 3){
+                ans = max(ans, j - i + 1);
+            }else{
+                mp[arr[i]]--;
+                if(mp[arr[i]] == 0) mp.erase(arr[i]);
+                i++;
             }
-            else if(mp.size() == 2){
-                maxLen = max(maxLen, j - i + 1);
-                j++;
-            }
-            else if(mp.size() > 2){
-                while(mp.size() > 2){
-                    mp[fruits[i]]--;
-                    if(mp[fruits[i]] == 0) mp.erase(fruits[i]);
-                    i++;
-                }
-                j++;
-            }
+            j++;
         }
-        return maxLen;
+
+        return ans; 
     }
 };
