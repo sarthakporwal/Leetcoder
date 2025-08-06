@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/sarthakporwal/Leetcoder/tree/master/0940-fruit-into-baskets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarthakporwal/Leetcoder/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2689-rearranging-fruits](https://github.com/sarthakporwal/Leetcoder/tree/master/2689-rearranging-fruits) |
 ## Greedy
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/sarthakporwal/Leetcoder/tree/master/0940-fruit-into-baskets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarthakporwal/Leetcoder/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sarthakporwal/Leetcoder/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Prefix Sum
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/3790-fruits-into-baskets-ii) |
+## String
+|  |
+| ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarthakporwal/Leetcoder/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
