@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/sarthakporwal/Leetcoder/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sarthakporwal/Leetcoder/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarthakporwal/Leetcoder/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2689-rearranging-fruits](https://github.com/sarthakporwal/Leetcoder/tree/master/2689-rearranging-fruits) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/sarthakporwal/Leetcoder/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/sarthakporwal/Leetcoder/tree/master/0900-reordered-power-of-2) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -119,4 +121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/sarthakporwal/Leetcoder/tree/master/0744-network-delay-time) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/sarthakporwal/Leetcoder/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/sarthakporwal/Leetcoder/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/sarthakporwal/Leetcoder/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
