@@ -18,6 +18,7 @@ public:
             int node = pq.top().second;
 
             pq.pop();
+            if(dist > d[node]) continue;
 
             for(auto &nei : adj[node]){
                 int Ndist = nei.second;
