@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/sarthakporwal/Leetcoder/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/sarthakporwal/Leetcoder/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/sarthakporwal/Leetcoder/tree/master/0900-reordered-power-of-2) |
 ## Probability and Statistics
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sarthakporwal/Leetcoder/tree/master/0344-reverse-string) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/sarthakporwal/Leetcoder/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
