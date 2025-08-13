@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/sarthakporwal/Leetcoder/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakporwal/Leetcoder/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarthakporwal/Leetcoder/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Matrix
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/sarthakporwal/Leetcoder/tree/master/0900-reordered-power-of-2) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/sarthakporwal/Leetcoder/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
