@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/sarthakporwal/Leetcoder/tree/master/0143-reorder-list) |
 | [0943-sum-of-subarray-minimums](https://github.com/sarthakporwal/Leetcoder/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakporwal/Leetcoder/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
@@ -145,16 +146,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/sarthakporwal/Leetcoder/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/sarthakporwal/Leetcoder/tree/master/0344-reverse-string) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sarthakporwal/Leetcoder/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/sarthakporwal/Leetcoder/tree/master/0143-reorder-list) |
 | [0326-power-of-three](https://github.com/sarthakporwal/Leetcoder/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sarthakporwal/Leetcoder/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0143-reorder-list](https://github.com/sarthakporwal/Leetcoder/tree/master/0143-reorder-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sarthakporwal/Leetcoder/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
