@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sarthakporwal/Leetcoder/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sarthakporwal/Leetcoder/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/sarthakporwal/Leetcoder/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sarthakporwal/Leetcoder/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sarthakporwal/Leetcoder/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/sarthakporwal/Leetcoder/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/sarthakporwal/Leetcoder/tree/master/0900-reordered-power-of-2) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/sarthakporwal/Leetcoder/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/sarthakporwal/Leetcoder/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sarthakporwal/Leetcoder/tree/master/0326-power-of-three) |
 ## Linked List
 |  |
