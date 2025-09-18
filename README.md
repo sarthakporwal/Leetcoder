@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarthakporwal/Leetcoder/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/sarthakporwal/Leetcoder/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sarthakporwal/Leetcoder/tree/master/0037-sudoku-solver) |
 | [0900-reordered-power-of-2](https://github.com/sarthakporwal/Leetcoder/tree/master/0900-reordered-power-of-2) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarthakporwal/Leetcoder/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/sarthakporwal/Leetcoder/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarthakporwal/Leetcoder/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakporwal/Leetcoder/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sarthakporwal/Leetcoder/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/sarthakporwal/Leetcoder/tree/master/0344-reverse-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakporwal/Leetcoder/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sarthakporwal/Leetcoder/tree/master/1264-maximum-number-of-words-you-can-type) |
