@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sarthakporwal/Leetcoder/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sarthakporwal/Leetcoder/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/3790-fruits-into-baskets-ii) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakporwal/Leetcoder/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sarthakporwal/Leetcoder/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sarthakporwal/Leetcoder/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sarthakporwal/Leetcoder/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakporwal/Leetcoder/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -152,10 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/sarthakporwal/Leetcoder/tree/master/0744-network-delay-time) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakporwal/Leetcoder/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/sarthakporwal/Leetcoder/tree/master/0744-network-delay-time) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakporwal/Leetcoder/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Graph
 |  |
 | ------- |
@@ -236,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sarthakporwal/Leetcoder/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Union Find
+|  |
+| ------- |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakporwal/Leetcoder/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
