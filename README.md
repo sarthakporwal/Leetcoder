@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakporwal/Leetcoder/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakporwal/Leetcoder/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sarthakporwal/Leetcoder/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2169-simple-bank-system](https://github.com/sarthakporwal/Leetcoder/tree/master/2169-simple-bank-system) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sarthakporwal/Leetcoder/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sarthakporwal/Leetcoder/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarthakporwal/Leetcoder/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/sarthakporwal/Leetcoder/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sarthakporwal/Leetcoder/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarthakporwal/Leetcoder/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2169-simple-bank-system](https://github.com/sarthakporwal/Leetcoder/tree/master/2169-simple-bank-system) |
 | [2689-rearranging-fruits](https://github.com/sarthakporwal/Leetcoder/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sarthakporwal/Leetcoder/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Greedy
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/sarthakporwal/Leetcoder/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/sarthakporwal/Leetcoder/tree/master/1642-water-bottles) |
+| [2169-simple-bank-system](https://github.com/sarthakporwal/Leetcoder/tree/master/2169-simple-bank-system) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sarthakporwal/Leetcoder/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakporwal/Leetcoder/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/sarthakporwal/Leetcoder/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
