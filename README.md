@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sarthakporwal/Leetcoder/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sarthakporwal/Leetcoder/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/sarthakporwal/Leetcoder/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/0119-pascals-triangle-ii) |
 | [0330-patching-array](https://github.com/sarthakporwal/Leetcoder/tree/master/0330-patching-array) |
 | [0498-diagonal-traverse](https://github.com/sarthakporwal/Leetcoder/tree/master/0498-diagonal-traverse) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sarthakporwal/Leetcoder/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sarthakporwal/Leetcoder/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/0119-pascals-triangle-ii) |
 | [0826-soup-servings](https://github.com/sarthakporwal/Leetcoder/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sarthakporwal/Leetcoder/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/sarthakporwal/Leetcoder/tree/master/0943-sum-of-subarray-minimums) |
