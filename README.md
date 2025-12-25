@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarthakporwal/Leetcoder/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/sarthakporwal/Leetcoder/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/sarthakporwal/Leetcoder/tree/master/2689-rearranging-fruits) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/sarthakporwal/Leetcoder/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarthakporwal/Leetcoder/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sarthakporwal/Leetcoder/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sarthakporwal/Leetcoder/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0330-patching-array](https://github.com/sarthakporwal/Leetcoder/tree/master/0330-patching-array) |
 | [2689-rearranging-fruits](https://github.com/sarthakporwal/Leetcoder/tree/master/2689-rearranging-fruits) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/sarthakporwal/Leetcoder/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sort
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/sarthakporwal/Leetcoder/tree/master/0900-reordered-power-of-2) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/sarthakporwal/Leetcoder/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sarthakporwal/Leetcoder/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Counting
 |  |
