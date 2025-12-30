@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakporwal/Leetcoder/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakporwal/Leetcoder/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sarthakporwal/Leetcoder/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakporwal/Leetcoder/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2169-simple-bank-system](https://github.com/sarthakporwal/Leetcoder/tree/master/2169-simple-bank-system) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sarthakporwal/Leetcoder/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/sarthakporwal/Leetcoder/tree/master/2257-count-unguarded-cells-in-the-grid) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakporwal/Leetcoder/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakporwal/Leetcoder/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sarthakporwal/Leetcoder/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakporwal/Leetcoder/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sarthakporwal/Leetcoder/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sarthakporwal/Leetcoder/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sarthakporwal/Leetcoder/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/sarthakporwal/Leetcoder/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/sarthakporwal/Leetcoder/tree/master/0900-reordered-power-of-2) |
 | [1642-water-bottles](https://github.com/sarthakporwal/Leetcoder/tree/master/1642-water-bottles) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakporwal/Leetcoder/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sarthakporwal/Leetcoder/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarthakporwal/Leetcoder/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarthakporwal/Leetcoder/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
