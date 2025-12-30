@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sarthakporwal/Leetcoder/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2169-simple-bank-system](https://github.com/sarthakporwal/Leetcoder/tree/master/2169-simple-bank-system) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sarthakporwal/Leetcoder/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/sarthakporwal/Leetcoder/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sarthakporwal/Leetcoder/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarthakporwal/Leetcoder/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/sarthakporwal/Leetcoder/tree/master/2529-range-product-queries-of-powers) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sarthakporwal/Leetcoder/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/sarthakporwal/Leetcoder/tree/master/1642-water-bottles) |
 | [2169-simple-bank-system](https://github.com/sarthakporwal/Leetcoder/tree/master/2169-simple-bank-system) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/sarthakporwal/Leetcoder/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sarthakporwal/Leetcoder/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sarthakporwal/Leetcoder/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/sarthakporwal/Leetcoder/tree/master/0840-magic-squares-in-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakporwal/Leetcoder/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2257-count-unguarded-cells-in-the-grid](https://github.com/sarthakporwal/Leetcoder/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sarthakporwal/Leetcoder/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sarthakporwal/Leetcoder/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sarthakporwal/Leetcoder/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
