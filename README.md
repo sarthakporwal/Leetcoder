@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/sarthakporwal/Leetcoder/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakporwal/Leetcoder/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakporwal/Leetcoder/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/sarthakporwal/Leetcoder/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sarthakporwal/Leetcoder/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakporwal/Leetcoder/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2169-simple-bank-system](https://github.com/sarthakporwal/Leetcoder/tree/master/2169-simple-bank-system) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/sarthakporwal/Leetcoder/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sarthakporwal/Leetcoder/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sarthakporwal/Leetcoder/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/sarthakporwal/Leetcoder/tree/master/0840-magic-squares-in-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakporwal/Leetcoder/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/sarthakporwal/Leetcoder/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/sarthakporwal/Leetcoder/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sarthakporwal/Leetcoder/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sarthakporwal/Leetcoder/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -180,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/sarthakporwal/Leetcoder/tree/master/0744-network-delay-time) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/sarthakporwal/Leetcoder/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakporwal/Leetcoder/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/sarthakporwal/Leetcoder/tree/master/0744-network-delay-time) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/sarthakporwal/Leetcoder/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakporwal/Leetcoder/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Graph
 |  |
@@ -272,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/sarthakporwal/Leetcoder/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakporwal/Leetcoder/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
