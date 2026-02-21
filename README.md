@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sarthakporwal/Leetcoder/tree/master/0231-power-of-two) |
 | [0756-pyramid-transition-matrix](https://github.com/sarthakporwal/Leetcoder/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarthakporwal/Leetcoder/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sarthakporwal/Leetcoder/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/sarthakporwal/Leetcoder/tree/master/2529-range-product-queries-of-powers) |
 ## Hash Table
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sarthakporwal/Leetcoder/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sarthakporwal/Leetcoder/tree/master/0326-power-of-three) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarthakporwal/Leetcoder/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/sarthakporwal/Leetcoder/tree/master/0826-soup-servings) |
 | [0840-magic-squares-in-grid](https://github.com/sarthakporwal/Leetcoder/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/sarthakporwal/Leetcoder/tree/master/0900-reordered-power-of-2) |
