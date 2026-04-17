@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sarthakporwal/Leetcoder/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sarthakporwal/Leetcoder/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sarthakporwal/Leetcoder/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sarthakporwal/Leetcoder/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/3790-fruits-into-baskets-ii) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakporwal/Leetcoder/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/sarthakporwal/Leetcoder/tree/master/2169-simple-bank-system) |
 | [2689-rearranging-fruits](https://github.com/sarthakporwal/Leetcoder/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sarthakporwal/Leetcoder/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sarthakporwal/Leetcoder/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarthakporwal/Leetcoder/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarthakporwal/Leetcoder/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sarthakporwal/Leetcoder/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sarthakporwal/Leetcoder/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Probability and Statistics
 |  |
 | ------- |
