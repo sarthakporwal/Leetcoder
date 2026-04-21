@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/sarthakporwal/Leetcoder/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakporwal/Leetcoder/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakporwal/Leetcoder/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthakporwal/Leetcoder/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sarthakporwal/Leetcoder/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/sarthakporwal/Leetcoder/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakporwal/Leetcoder/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/sarthakporwal/Leetcoder/tree/master/0744-network-delay-time) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthakporwal/Leetcoder/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sarthakporwal/Leetcoder/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakporwal/Leetcoder/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/sarthakporwal/Leetcoder/tree/master/2169-simple-bank-system) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthakporwal/Leetcoder/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
