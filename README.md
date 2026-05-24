@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sarthakporwal/Leetcoder/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sarthakporwal/Leetcoder/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/sarthakporwal/Leetcoder/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/0119-pascals-triangle-ii) |
 | [0330-patching-array](https://github.com/sarthakporwal/Leetcoder/tree/master/0330-patching-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/sarthakporwal/Leetcoder/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/0119-pascals-triangle-ii) |
 | [0826-soup-servings](https://github.com/sarthakporwal/Leetcoder/tree/master/0826-soup-servings) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/0045-jump-game-ii) |
 | [0330-patching-array](https://github.com/sarthakporwal/Leetcoder/tree/master/0330-patching-array) |
 | [2689-rearranging-fruits](https://github.com/sarthakporwal/Leetcoder/tree/master/2689-rearranging-fruits) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sarthakporwal/Leetcoder/tree/master/3075-maximize-happiness-of-selected-children) |
