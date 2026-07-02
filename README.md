@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sarthakporwal/Leetcoder/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/sarthakporwal/Leetcoder/tree/master/0744-network-delay-time) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthakporwal/Leetcoder/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sarthakporwal/Leetcoder/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sarthakporwal/Leetcoder/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/sarthakporwal/Leetcoder/tree/master/0744-network-delay-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sarthakporwal/Leetcoder/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakporwal/Leetcoder/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
@@ -299,5 +301,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sarthakporwal/Leetcoder/tree/master/0547-number-of-provinces) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthakporwal/Leetcoder/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sarthakporwal/Leetcoder/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
