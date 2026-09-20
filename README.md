@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/sarthakporwal/Leetcoder/tree/master/2169-simple-bank-system) |
 | [2257-count-unguarded-cells-in-the-grid](https://github.com/sarthakporwal/Leetcoder/tree/master/2257-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sarthakporwal/Leetcoder/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3498-reverse-degree-of-a-string](https://github.com/sarthakporwal/Leetcoder/tree/master/3498-reverse-degree-of-a-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sarthakporwal/Leetcoder/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarthakporwal/Leetcoder/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sarthakporwal/Leetcoder/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sarthakporwal/Leetcoder/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
