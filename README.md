@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sarthakporwal/Leetcoder/tree/master/0143-reorder-list) |
 | [0943-sum-of-subarray-minimums](https://github.com/sarthakporwal/Leetcoder/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakporwal/Leetcoder/tree/master/1078-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarthakporwal/Leetcoder/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sarthakporwal/Leetcoder/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sarthakporwal/Leetcoder/tree/master/0344-reverse-string) |
 | [0756-pyramid-transition-matrix](https://github.com/sarthakporwal/Leetcoder/tree/master/0756-pyramid-transition-matrix) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakporwal/Leetcoder/tree/master/1078-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarthakporwal/Leetcoder/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sarthakporwal/Leetcoder/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sarthakporwal/Leetcoder/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sarthakporwal/Leetcoder/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sarthakporwal/Leetcoder/tree/master/0547-number-of-provinces) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarthakporwal/Leetcoder/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
