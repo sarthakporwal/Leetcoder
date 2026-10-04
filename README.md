@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/sarthakporwal/Leetcoder/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/0119-pascals-triangle-ii) |
+| [0678-valid-parenthesis-string](https://github.com/sarthakporwal/Leetcoder/tree/master/0678-valid-parenthesis-string) |
 | [0826-soup-servings](https://github.com/sarthakporwal/Leetcoder/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sarthakporwal/Leetcoder/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/sarthakporwal/Leetcoder/tree/master/0943-sum-of-subarray-minimums) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/sarthakporwal/Leetcoder/tree/master/0045-jump-game-ii) |
 | [0330-patching-array](https://github.com/sarthakporwal/Leetcoder/tree/master/0330-patching-array) |
+| [0678-valid-parenthesis-string](https://github.com/sarthakporwal/Leetcoder/tree/master/0678-valid-parenthesis-string) |
 | [2689-rearranging-fruits](https://github.com/sarthakporwal/Leetcoder/tree/master/2689-rearranging-fruits) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sarthakporwal/Leetcoder/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sort
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/sarthakporwal/Leetcoder/tree/master/0143-reorder-list) |
+| [0678-valid-parenthesis-string](https://github.com/sarthakporwal/Leetcoder/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/sarthakporwal/Leetcoder/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakporwal/Leetcoder/tree/master/1078-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarthakporwal/Leetcoder/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakporwal/Leetcoder/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0344-reverse-string](https://github.com/sarthakporwal/Leetcoder/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/sarthakporwal/Leetcoder/tree/master/0678-valid-parenthesis-string) |
 | [0756-pyramid-transition-matrix](https://github.com/sarthakporwal/Leetcoder/tree/master/0756-pyramid-transition-matrix) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakporwal/Leetcoder/tree/master/1078-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarthakporwal/Leetcoder/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -314,5 +318,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/sarthakporwal/Leetcoder/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sarthakporwal/Leetcoder/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
